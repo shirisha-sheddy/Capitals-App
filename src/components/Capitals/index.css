@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.app-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-color: #f8fafc;
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.heading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.question-container {
+  display: flex;
+}
